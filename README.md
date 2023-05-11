@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Pandey</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img alt="satyam" align="left" width="400" src="https://raw.githubusercontent.com/pandey-satyam-0/pandey-satyam-0/main/intro.gif"/>
+<img alt="satyam" align="right" width="400" src="https://raw.githubusercontent.com/pandey-satyam-0/pandey-satyam-0/main/intro.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandey-satyam-0&label=Profile%20views&color=0e75b6&style=flat" alt="pandey-satyam-0" /> </p>
 
